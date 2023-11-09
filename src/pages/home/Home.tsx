@@ -15,7 +15,7 @@ function Home() {
 
                     <div className="flex justify-end items-center">
                         <img
-                            src="https://clipart.coolclips.com/480/vectors/tf05040/CoolClips_peop0711.png"
+                            src= "https://clipart.coolclips.com/480/vectors/tf05040/CoolClips_peop0711.png"
                             alt="imagem da home"
                             className='w-/5'
                         />

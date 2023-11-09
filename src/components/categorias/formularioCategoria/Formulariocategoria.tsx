@@ -83,7 +83,7 @@ function FormularioCategoria() {
                     />
                 </div>
                 <button
-                    className="rounded text-slate-100 bg-blue-600 
+                    className="rounded text-slate-100 bg-red-600 
                     hover:bg-white-900 w-1/2 py-2 mx-auto flex justify-center" type="submit">
 
                     {isLoading ?
