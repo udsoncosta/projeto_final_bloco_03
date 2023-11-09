@@ -6,18 +6,18 @@ function Home() {
                 <div className='container grid grid-cols-2 text-white'>
                     <div className="flex flex-col gap-4 items-center justify-center py-10">
                         <h2 className='text-5xl font-bold'>
-                            Seja bem vindo!
+                            Farmácia Popular!
                         </h2>
-                        <p className='text-xl'>
-                            Farmácia popular ao seu lado!
+                        <p className="text-x1">
+                        Seu caminho para o bem-estar começa aqui: onde cuidado, saúde e confiança se encontram. Seja bem-vindo, aqui sua saúde é a nossa prioridade.
                         </p>
                         </div>
 
                     <div className="flex justify-end items-center">
                         <img
-                            src="https://img.freepik.com/vetores-gratis/farmacia-de-remedios-com-produtos-medicos-isolados-drogas-farmaceuticas-e-pilulas-ilustracao-vetorial_1150-65696.jpg"
+                            src="https://clipart.coolclips.com/480/vectors/tf05040/CoolClips_peop0711.png"
                             alt="imagem da home"
-                            className='w-4/5'
+                            className='w-/5'
                         />
                     </div>
                 </div>
